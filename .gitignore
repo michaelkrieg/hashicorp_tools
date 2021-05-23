@@ -1,0 +1,5 @@
+# IDE files
+.idea/
+
+# custodian output
+out/**
